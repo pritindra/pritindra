@@ -11,6 +11,6 @@ I'm currently pursuing my **M.Tech in Computer Science & Engineering** at **IIT 
 
 ## 📫 Social
 
-- 📧 [Google Scholar](pdas24@iitk.ac.in)  
+- 📧 [Google Scholar](https://scholar.google.co.in/citations?user=X-Co4YYAAAAJ&hl=en&oi=ao)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pritindra-das/)  
  
