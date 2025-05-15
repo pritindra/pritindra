@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**pritindra/pritindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, World!
 
-Here are some ideas to get you started:
+I'm currently pursuing my **M.Tech in Computer Science & Engineering** at **IIT Kanpur**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m currently working on
+
+- Research and academic projects in distributed network systems, IoT, and a pinch of ML
+- Learning more about React and Node for full-stack development 
+
+## 📫 Social
+
+- 📧 [Google Scholar](pdas24@iitk.ac.in)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pritindra-das/)  
+ 
